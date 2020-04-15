@@ -1,4 +1,4 @@
-# Program make a simple calculator
+# Simple Calculator
 
 # This function adds two numbers 
 def add(x, y):
